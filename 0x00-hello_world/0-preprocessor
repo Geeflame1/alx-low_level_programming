@@ -1,0 +1,2 @@
+#!/bin/bash
+0 is gcc -E $CFILE -o c
